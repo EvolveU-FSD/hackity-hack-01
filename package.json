@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "load": "node loadInitialData.js"
+  },
+  "name": "hackity-hack1",
+  "description": "pizza",
+  "version": "1.0.0",
+  "main": "mongoose.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
