@@ -11,7 +11,11 @@ npm run start
 ## How to use
 
 Through sending HTTP requests,
-you should be able to create, read, update, and delete (CRUD) Pizzas and Orders
+
+- you should be able to create, read, update, and delete (CRUD) Pizzas and Orders
+- you should not be able to create 2 pizzas with the same name
+
+Use postman or curl to test
 
 ## To Fix
 
